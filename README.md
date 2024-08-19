@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hi, I'm Naveen!<br>👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br>👩🏻‍🎓 Studied M.C.A at GL Bajaj Institute of Technology and Management, India<br>🎨 Check out my LinkedIn post on DevOps, cheat sheets, and interview questions!<br>🌷 #learninginpublic in my blog
+👋 Hi, I'm Naveen!<br>
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br>
+👩🏻‍🎓 Studied M.C.A at GL Bajaj Institute of Technology and Management, India<br>
+🎨 Check out my LinkedIn post on DevOps, cheat sheets, and interview questions!<br>
+🌷 #learninginpublic in my [blog](https://hashnode.com/@nvndevops)
 
 
 ## 🌐 Socials:
