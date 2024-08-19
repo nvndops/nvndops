@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Naveen!<br>
-👩🏻‍💻 DevOps Engineer at Cognizant sharing about my journey and learnings in tech<br>
+👩🏻‍💻 Working as DevOps Engineer over at Cognizant<br>
 👩🏻‍🎓 Studied M.C.A at GL Bajaj Institute of Technology and Management, India<br>
 🎨 Check out my LinkedIn post on DevOps, cheat sheets, and interview questions!<br>
 🌷 #learninginpublic in my [blog](https://hashnode.com/@nvndevops)
