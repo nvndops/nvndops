@@ -3,7 +3,7 @@
 👩🏻‍💻 Working as DevOps Engineer over at Cognizant<br>
 👩🏻‍🎓 Studied M.C.A at GL Bajaj Institute of Technology and Management, India<br>
 🎨 Check out my LinkedIn post on DevOps, cheat sheets, and interview questions!<br>
-🌷 #learninginpublic in my [blog](https://hashnode.com/@nvndevops)
+<!--- 🌷 #learninginpublic in my [blog](https://hashnode.com/@nvndevops) -->
 
 
 ## 🌐 Socials:
